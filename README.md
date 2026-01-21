@@ -34,3 +34,12 @@ The integration of decision support systems requires interpretability, traceabil
 
 ### Scope of this document  
 This document does not propose technical solutions or predictive models. Its sole purpose is to provide a conceptual and operational reference grounded in real clinical practice, intended to inform critical analysis of decision support systems in healthcare, particularly within prehospital care.
+
+---
+
+Author  
+Alfredo Martín Gil, MD  
+
+This document reflects real-world clinical practice in prehospital emergency care and is intended as an operational reference for clinical decision-making under uncertainty.  
+
+The content is based on professional experience in emergency and prehospital medicine and does not constitute a clinical guideline or protocol.
