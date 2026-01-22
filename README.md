@@ -1,3 +1,9 @@
+> 🔄 Project status  
+> This repository documents a **conceptual and operational analysis** of clinical decision-making under uncertainty in prehospital care.
+>  
+> Active development and implementation work are maintained in:
+> 👉 clinical-nlp-triage-open-source
+
 # prehospital-clinical-decision-uncertainty
 Operational description of real-world clinical decision-making under uncertainty in prehospital care, grounded in acute dyspnea management.
 # Clinical decision-making under uncertainty  
